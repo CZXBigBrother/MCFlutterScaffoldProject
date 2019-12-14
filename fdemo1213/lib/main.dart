@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:provider/provider.dart';
 import 'common/global.dart';
+import 'demo/demo_language_controller.dart';
 import 'demo/demo_theme_controller.dart';
 import 'i10n/localization_intl.dart';
 import 'index.dart';
@@ -30,11 +31,14 @@ class MyApp extends StatelessWidget {
             (BuildContext context, themeModel, localeModel, Widget widget) {
           return MaterialApp(
             navigatorKey: navigationService.navigatorKey,
-            title: 'Flutter Demo',
+            // title: GmLocalizations.of(context).title,
+            onGenerateTitle: (context) {
+              return GmLocalizations.of(context).title;
+            },
             theme: ThemeData(
               primarySwatch: themeModel.theme,
             ),
-            home: MyHomePage(title: 'Flutter Demo Home Page'),
+            home: MyHomePage(),
             locale: localeModel.getLocale(),
             supportedLocales: [
               //我们只支持美国英语和中文简体
@@ -60,7 +64,7 @@ class MyApp extends StatelessWidget {
                   locale = _locale;
                 } else {
                   //如果系统语言不是中文简体或美国英语，则默认使用美国英语
-                  locale = Locale('en', 'US');
+                  locale = Locale('zh', 'CN');
                 }
                 return locale;
               }
@@ -86,15 +90,24 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text(widget.title),
+        title: Text(GmLocalizations.of(context).title),
       ),
       body: Center(
         child: ListView(
           children: <Widget>[
             ListTile(
-              title: Text("主题1"),
+              title: Text(GmLocalizations.of(context).theme),
               onTap: () {
                 navigationService.cNavigateTo(DemoThemeController());
+              },
+            ),
+            Divider(
+              height: 1,
+            ),
+            ListTile(
+              title: Text(GmLocalizations.of(context).language),
+              onTap: () {
+                navigationService.cNavigateTo(DemoLanguageController());
               },
             ),
             Divider(

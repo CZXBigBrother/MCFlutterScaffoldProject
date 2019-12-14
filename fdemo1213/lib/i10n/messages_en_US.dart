@@ -1,5 +1,5 @@
 // DO NOT EDIT. This is code generated via package:intl/generate_localized.dart
-// This is a library that provides messages for a messages locale. All the
+// This is a library that provides messages for a en_US locale. All the
 // messages from the main program should be duplicated here with the same
 // function name.
 
@@ -17,14 +17,14 @@ final messages = new MessageLookup();
 typedef String MessageIfAbsent(String messageStr, List<dynamic> args);
 
 class MessageLookup extends MessageLookupByLibrary {
-  String get localeName => 'messages';
+  String get localeName => 'en_US';
 
   final messages = _notInlinedMessages(_notInlinedMessages);
   static _notInlinedMessages(_) => <String, Function> {
-    "auto" : MessageLookupByLibrary.simpleMessage("自动"),
-    "language" : MessageLookupByLibrary.simpleMessage("语言"),
-    "setting" : MessageLookupByLibrary.simpleMessage("设置"),
-    "theme" : MessageLookupByLibrary.simpleMessage("主题"),
-    "title" : MessageLookupByLibrary.simpleMessage("MCflutter 快速开发框架")
+    "auto" : MessageLookupByLibrary.simpleMessage("Auto"),
+    "language" : MessageLookupByLibrary.simpleMessage("Language"),
+    "setting" : MessageLookupByLibrary.simpleMessage("Setting"),
+    "theme" : MessageLookupByLibrary.simpleMessage("Theme"),
+    "title" : MessageLookupByLibrary.simpleMessage("MCflutter app")
   };
 }

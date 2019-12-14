@@ -18,46 +18,11 @@ class GmLocalizations {
     return Localizations.of<GmLocalizations>(context, GmLocalizations);
   }
 
-  // String get title {
-  //   return Intl.message(
-  //     'Flutter APP',
-  //     name: 'title',
-  //     desc: 'Title for the Demo application',
-  //   );
-  // }
-
-  // String get testsss => Intl.message('t12', name: 't2');
-
-  // String get home => Intl.message('Github', name: 'home');
-
-  // String get language => Intl.message('Language', name: 'language');
-
-  // String get login => Intl.message('Login', name: 'login');
-
-  // String get auto => Intl.message('Auto', name: 'auto');
-
-  // String get setting => Intl.message('Setting', name: 'setting');
-
-  // String get theme => Intl.message('Theme', name: 'theme');
-
-  // String get noDescription =>
-  //     Intl.message('No description yet !', name: 'noDescription');
-
-  // String get userName => Intl.message('User Name', name: 'userName');
-  // String get userNameRequired =>
-  //     Intl.message("User name required!", name: 'userNameRequired');
-  // String get password => Intl.message('Password', name: 'password');
-  // String get passwordRequired =>
-  //     Intl.message('Password required!', name: 'passwordRequired');
-  // String get userNameOrPasswordWrong =>
-  //     Intl.message('User name or password is not correct!',
-  //         name: 'userNameOrPasswordWrong');
-  // String get logout => Intl.message('logout', name: 'logout');
-  // String get logoutTip =>
-  //     Intl.message('Are you sure you want to quit your current account?',
-  //         name: 'logoutTip');
-  // String get yes => Intl.message('yes', name: 'yes');
-  // String get cancel => Intl.message('cancel', name: 'cancel');
+  String get title => Intl.message('MCflutter 快速开发框架', name: 'title');
+  String get language => Intl.message('语言', name: 'language');
+  String get setting => Intl.message('设置', name: 'setting');
+  String get theme => Intl.message('主题', name: 'theme');
+  String get auto => Intl.message('自动', name: 'auto');
 }
 
 //Locale代理类

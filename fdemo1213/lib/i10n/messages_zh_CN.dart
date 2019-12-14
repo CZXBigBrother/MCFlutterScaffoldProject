@@ -21,6 +21,10 @@ class MessageLookup extends MessageLookupByLibrary {
 
   final messages = _notInlinedMessages(_notInlinedMessages);
   static _notInlinedMessages(_) => <String, Function> {
-
+    "auto" : MessageLookupByLibrary.simpleMessage("自动"),
+    "language" : MessageLookupByLibrary.simpleMessage("语言"),
+    "setting" : MessageLookupByLibrary.simpleMessage("设置"),
+    "theme" : MessageLookupByLibrary.simpleMessage("主题"),
+    "title" : MessageLookupByLibrary.simpleMessage("MCflutter 快速开发框架")
   };
 }

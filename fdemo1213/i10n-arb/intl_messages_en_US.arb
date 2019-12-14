@@ -1,26 +1,27 @@
 {
-  "@@last_modified": "2019-12-14T10:03:24.019626",
-  "title": "MCflutter 快速开发框架",
+  "@@last_modified": "2019-12-14T09:41:20.704718",
+  "@@locale":"en_US",
+  "title": "MCflutter app",
   "@title": {
     "type": "text",
     "placeholders": {}
   },
-  "language": "语言",
+  "language": "Language",
   "@language": {
     "type": "text",
     "placeholders": {}
   },
-  "setting": "设置",
+  "setting": "Setting",
   "@setting": {
     "type": "text",
     "placeholders": {}
   },
-  "theme": "主题",
+  "theme": "Theme",
   "@theme": {
     "type": "text",
     "placeholders": {}
   },
-  "auto": "自动",
+  "auto": "Auto",
   "@auto": {
     "type": "text",
     "placeholders": {}

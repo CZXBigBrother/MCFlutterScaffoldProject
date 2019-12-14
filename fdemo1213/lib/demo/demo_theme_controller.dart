@@ -17,7 +17,7 @@ class DemoThemeControllerState extends State<DemoThemeController> {
     // TODO: implement build
     return Scaffold(
       appBar: AppBar(
-        // title: Text(GmLocalizations.of(context)),
+        title: Text(GmLocalizations.of(context).theme),
       ),
       body: ListView(
         children: Global.themes.map<Widget>((e) {
