@@ -1,3 +1,4 @@
+import 'package:fdemo1213/demo/demo_%20provider_controller.dart';
 import 'package:fdemo1213/state/profile_change_notifier.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -13,7 +14,6 @@ import 'index.dart';
 void main() {
   // runApp(MyApp());
   realRunApp();
-  //  Global.init().then((e) => runApp(MyApp()));
 }
 
 void realRunApp() async {
@@ -112,6 +112,15 @@ class _MyHomePageState extends State<MyHomePage> {
               title: Text(GmLocalizations.of(context).language),
               onTap: () {
                 navigationService.cNavigateTo(DemoLanguageController());
+              },
+            ),
+            Divider(
+              height: 1,
+            ),
+            ListTile(
+              title: Text(GmLocalizations.of(context).statemanagement),
+              onTap: () {
+                navigationService.cNavigateTo(DemoProviderController());
               },
             ),
             Divider(

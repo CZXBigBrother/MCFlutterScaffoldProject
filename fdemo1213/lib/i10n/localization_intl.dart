@@ -23,6 +23,7 @@ class GmLocalizations {
   String get setting => Intl.message('设置', name: 'setting');
   String get theme => Intl.message('主题', name: 'theme');
   String get auto => Intl.message('自动', name: 'auto');
+  String get statemanagement => Intl.message('状态管理', name: 'statemanagement');
 }
 
 //Locale代理类

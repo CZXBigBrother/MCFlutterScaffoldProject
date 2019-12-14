@@ -26,4 +26,9 @@
     "type": "text",
     "placeholders": {}
   }
+  "statemanagement": "State Management",
+  "@statemanagement": {
+    "type": "text",
+    "placeholders": {}
+  }
 }

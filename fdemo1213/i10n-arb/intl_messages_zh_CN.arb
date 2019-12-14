@@ -25,5 +25,11 @@
   "@auto": {
     "type": "text",
     "placeholders": {}
+  },
+  "statemanagement": "状态管理",
+  "@statemanagement": {
+    "type": "text",
+    "placeholders": {}
   }
+
 }

@@ -25,6 +25,8 @@ class MessageLookup extends MessageLookupByLibrary {
     "language" : MessageLookupByLibrary.simpleMessage("Language"),
     "setting" : MessageLookupByLibrary.simpleMessage("Setting"),
     "theme" : MessageLookupByLibrary.simpleMessage("Theme"),
-    "title" : MessageLookupByLibrary.simpleMessage("MCflutter app")
+    "title" : MessageLookupByLibrary.simpleMessage("MCflutter app"),
+    "statemanagement" : MessageLookupByLibrary.simpleMessage("State Management"),
+
   };
 }

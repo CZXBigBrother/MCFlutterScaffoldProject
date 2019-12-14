@@ -25,6 +25,7 @@ class MessageLookup extends MessageLookupByLibrary {
     "language" : MessageLookupByLibrary.simpleMessage("语言"),
     "setting" : MessageLookupByLibrary.simpleMessage("设置"),
     "theme" : MessageLookupByLibrary.simpleMessage("主题"),
-    "title" : MessageLookupByLibrary.simpleMessage("MCflutter 快速开发框架")
+    "title" : MessageLookupByLibrary.simpleMessage("MCflutter 快速开发框架"),
+    "statemanagement" : MessageLookupByLibrary.simpleMessage("状态管理"),
   };
 }
