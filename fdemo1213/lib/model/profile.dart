@@ -15,4 +15,12 @@ class Profile {
       };
 
   Map<String, dynamic> toJson() => _$ProfileToJson(this);
+
+  factory Profile.fromJson(Map<String, dynamic> json) {
+    return Profile()
+      ..token = json['token'] as String
+      ..theme = json['theme'] as num
+      ..lastLogin = json['lastLogin'] as String
+      ..locale = json['locale'] as String;
+  }
 }

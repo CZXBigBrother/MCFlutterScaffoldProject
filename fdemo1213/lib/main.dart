@@ -11,16 +11,20 @@ import 'index.dart';
 
 // void main() => runApp(MyApp());
 void main() {
-  runApp(MyApp());
+  // runApp(MyApp());
+  realRunApp();
   //  Global.init().then((e) => runApp(MyApp()));
 }
-// void main() => Global.init().then((e) => runApp(MyApp()));
+
+void realRunApp() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Global.init().then((onValue) {});
+  runApp(MyApp());
+}
 
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    Global.init().then((onValue) {});
-
     return MultiProvider(
       providers: <SingleChildCloneableWidget>[
         ChangeNotifierProvider.value(value: ThemeModel()),
