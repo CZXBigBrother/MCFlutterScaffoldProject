@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81997e21-695c-43a9-95a1-26818989bd7a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/MCFlutterScaffoldProject.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ModifyProjectName.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/.gitignore" afterPath="$PROJECT_DIR$/mcflutterproject/.gitignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/.metadata" afterPath="$PROJECT_DIR$/mcflutterproject/.metadata" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/README.md" afterPath="$PROJECT_DIR$/mcflutterproject/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/android/.gitignore" afterPath="$PROJECT_DIR$/mcflutterproject/android/.gitignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/android/app/build.gradle" afterPath="$PROJECT_DIR$/mcflutterproject/android/app/build.gradle" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/android/app/src/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/mcflutterproject/android/app/src/debug/AndroidManifest.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/android/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/mcflutterproject/android/app/src/main/AndroidManifest.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/android/app/src/main/java/com/example/fdemo1213/MainActivity.java" afterPath="$PROJECT_DIR$/mcflutterproject/android/app/src/main/java/com/example/mcflutterproject/MainActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/android/app/src/main/res/drawable/launch_background.xml" afterPath="$PROJECT_DIR$/mcflutterproject/android/app/src/main/res/drawable/launch_background.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/mcflutterproject/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/mcflutterproject/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/mcflutterproject/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/mcflutterproject/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/mcflutterproject/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/android/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/mcflutterproject/android/app/src/main/res/values/styles.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/android/app/src/profile/AndroidManifest.xml" afterPath="$PROJECT_DIR$/mcflutterproject/android/app/src/profile/AndroidManifest.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/android/build.gradle" afterPath="$PROJECT_DIR$/mcflutterproject/android/build.gradle" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/android/gradle.properties" afterPath="$PROJECT_DIR$/mcflutterproject/android/gradle.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/android/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/mcflutterproject/android/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/android/settings.gradle" afterPath="$PROJECT_DIR$/mcflutterproject/android/settings.gradle" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/i10n-arb/intl_messages.arb" afterPath="$PROJECT_DIR$/mcflutterproject/i10n-arb/intl_messages.arb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/i10n-arb/intl_messages_en_US.arb" afterPath="$PROJECT_DIR$/mcflutterproject/i10n-arb/intl_messages_en_US.arb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/i10n-arb/intl_messages_zh_CN.arb" afterPath="$PROJECT_DIR$/mcflutterproject/i10n-arb/intl_messages_zh_CN.arb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/.gitignore" afterPath="$PROJECT_DIR$/mcflutterproject/ios/.gitignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Flutter/AppFrameworkInfo.plist" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Flutter/AppFrameworkInfo.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Flutter/Debug.xcconfig" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Flutter/Debug.xcconfig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Flutter/Release.xcconfig" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Flutter/Release.xcconfig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Podfile" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Podfile" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Podfile.lock" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Podfile.lock" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner.xcodeproj/project.pbxproj" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner.xcworkspace/contents.xcworkspacedata" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner.xcworkspace/contents.xcworkspacedata" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/AppDelegate.h" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/AppDelegate.h" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/AppDelegate.m" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/AppDelegate.m" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/Base.lproj/LaunchScreen.storyboard" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/Base.lproj/Main.storyboard" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/Base.lproj/Main.storyboard" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/Info.plist" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/ios/Runner/main.m" afterPath="$PROJECT_DIR$/mcflutterproject/ios/Runner/main.m" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/lauguage.sh" afterPath="$PROJECT_DIR$/mcflutterproject/lauguage.sh" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/lib/common/global.dart" afterPath="$PROJECT_DIR$/mcflutterproject/lib/common/global.dart" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/lib/demo/demo_ provider_controller.dart" afterPath="$PROJECT_DIR$/mcflutterproject/lib/demo/demo_ provider_controller.dart" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/lib/demo/demo_language_controller.dart" afterPath="$PROJECT_DIR$/mcflutterproject/lib/demo/demo_language_controller.dart" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/lib/demo/demo_theme_controller.dart" afterPath="$PROJECT_DIR$/mcflutterproject/lib/demo/demo_theme_controller.dart" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/lib/i10n/localization_intl.dart" afterPath="$PROJECT_DIR$/mcflutterproject/lib/i10n/localization_intl.dart" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/lib/i10n/messages_all.dart" afterPath="$PROJECT_DIR$/mcflutterproject/lib/i10n/messages_all.dart" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/lib/i10n/messages_en_US.dart" afterPath="$PROJECT_DIR$/mcflutterproject/lib/i10n/messages_en_US.dart" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/lib/i10n/messages_messages.dart" afterPath="$PROJECT_DIR$/mcflutterproject/lib/i10n/messages_messages.dart" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/lib/i10n/messages_zh_CN.dart" afterPath="$PROJECT_DIR$/mcflutterproject/lib/i10n/messages_zh_CN.dart" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/lib/index.dart" afterPath="$PROJECT_DIR$/mcflutterproject/lib/index.dart" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/lib/main.dart" afterPath="$PROJECT_DIR$/mcflutterproject/lib/main.dart" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/lib/model/profile.dart" afterPath="$PROJECT_DIR$/mcflutterproject/lib/model/profile.dart" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/lib/service/navigation_service.dart" afterPath="$PROJECT_DIR$/mcflutterproject/lib/service/navigation_service.dart" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/lib/state/profile_change_notifier.dart" afterPath="$PROJECT_DIR$/mcflutterproject/lib/state/profile_change_notifier.dart" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/pubspec.lock" afterPath="$PROJECT_DIR$/mcflutterproject/pubspec.lock" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/pubspec.yaml" afterPath="$PROJECT_DIR$/mcflutterproject/pubspec.yaml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fdemo1213/test/widget_test.dart" afterPath="$PROJECT_DIR$/mcflutterproject/test/widget_test.dart" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MCFlutterScaffoldProject$ModifyProjectName.coverage" NAME="ModifyProjectName Coverage Results" MODIFIED="1576311154620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ModifyProjectName.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ModifyProjectName.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="542">
+              <caret line="63" column="24" lean-forward="false" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>d</find>
+      <find>xcco</find>
+      <find>mcflutterproject1213</find>
+      <find>mcflutterproject</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ModifyProjectName.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MCFlutterScaffoldProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MCFlutterScaffoldProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="FullScreen" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager" selected="Python.ModifyProjectName">
+    <configuration default="false" name="ModifyProjectName" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MCFlutterScaffoldProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ModifyProjectName.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MCFlutterScaffoldProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MCFlutterScaffoldProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MCFlutterScaffoldProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MCFlutterScaffoldProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="MCFlutterScaffoldProject" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MCFlutterScaffoldProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MCFlutterScaffoldProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MCFlutterScaffoldProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MCFlutterScaffoldProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MCFlutterScaffoldProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.ModifyProjectName" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.ModifyProjectName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81997e21-695c-43a9-95a1-26818989bd7a" name="Default" comment="" />
+      <created>1576308327838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576308327838</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Weex Documents" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/PythonWeb/env/py3web/lib/python3.6/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="183" column="4" lean-forward="false" selection-start-line="183" selection-start-column="4" selection-end-line="183" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/1556963627/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="241" column="7" lean-forward="true" selection-start-line="241" selection-start-column="7" selection-end-line="241" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifyProjectName.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="63" column="24" lean-forward="false" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
