@@ -1,0 +1,24 @@
+{
+  "@@last_modified": "2019-12-13T18:17:52.280400",
+    "title": "Github客户端",
+  "@title": {
+    "description": "Title for the Demo application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "home": "Github客户端",
+  "@home": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "语言",
+  "@language": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dddtestt": "测试ttt",
+  "@dddtestt": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
