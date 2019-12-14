@@ -3,6 +3,7 @@ import 'dart:convert';
 
 import 'package:fdemo1213/model/profile.dart';
 import 'package:flutter/material.dart';
+import 'package:package_info/package_info.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 const _themes = <MaterialColor>[
@@ -14,14 +15,17 @@ const _themes = <MaterialColor>[
 ];
 
 class Global {
-  static SharedPreferences _prefs;
-  static Profile profile = Profile();
+  static SharedPreferences preferences;
+  static PackageInfo packageInfo;
 
+  static Profile profile = Profile();
   static List<MaterialColor> get themes => _themes;
   static bool get isRelease => bool.fromEnvironment("dart.vm.product");
   static Future init() async {
-    _prefs = await SharedPreferences.getInstance();
-    var _profile = _prefs.getString("profile");
+    // 初始化数据缓存
+    preferences = await SharedPreferences.getInstance();
+    packageInfo = await PackageInfo.fromPlatform();
+    var _profile = preferences.getString("profile");
     if (_profile != null) {
       try {
         profile = Profile.fromJson(jsonDecode(_profile));
@@ -30,7 +34,8 @@ class Global {
       }
     }
   }
+
   // 持久化Profile信息
   static saveProfile() =>
-      _prefs.setString("profile", jsonEncode(profile.toJson()));
+      preferences.setString("profile", jsonEncode(profile.toJson()));
 }
