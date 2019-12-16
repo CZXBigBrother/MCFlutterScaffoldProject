@@ -1,7 +1,7 @@
 // 提供五套可选主题色
 import 'dart:convert';
 
-import 'package:mcflutterproject/model/profile.dart';
+import '../model/profile.dart';
 import 'package:flutter/material.dart';
 import 'package:package_info/package_info.dart';
 import 'package:shared_preferences/shared_preferences.dart';

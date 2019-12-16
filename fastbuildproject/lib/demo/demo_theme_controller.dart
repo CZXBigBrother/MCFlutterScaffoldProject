@@ -1,6 +1,6 @@
-import 'package:mcflutterproject/common/global.dart';
-import 'package:mcflutterproject/i10n/localization_intl.dart';
-import 'package:mcflutterproject/state/profile_change_notifier.dart';
+import '../common/global.dart';
+import '../i10n/localization_intl.dart';
+import '../state/profile_change_notifier.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

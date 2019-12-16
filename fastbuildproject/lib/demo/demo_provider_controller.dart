@@ -1,4 +1,4 @@
-import 'package:mcflutterproject/index.dart';
+import '../index.dart';
 import 'package:flutter/material.dart';
 
 class DemoProviderController extends StatefulWidget {

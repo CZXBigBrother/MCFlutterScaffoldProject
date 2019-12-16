@@ -1,5 +1,5 @@
-import 'package:mcflutterproject/common/global.dart';
-import 'package:mcflutterproject/model/profile.dart';
+import '../common/global.dart';
+import '../model/profile.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

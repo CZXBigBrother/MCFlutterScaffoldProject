@@ -1,4 +1,4 @@
-import 'package:mcflutterproject/state/profile_change_notifier.dart';
+import '../state/profile_change_notifier.dart';
 import 'package:flutter/material.dart';
 import '../index.dart';
 
