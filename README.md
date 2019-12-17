@@ -1,4 +1,5 @@
 GITHUB地址: [https://github.com/CZXBigBrother/MCFlutterScaffoldProject](https://github.com/CZXBigBrother/MCFlutterScaffoldProject)
+![QQ20191217-112054.gif](https://upload-images.jianshu.io/upload_images/3258209-8b5e87c92ed0f26a.gif?imageMogr2/auto-orient/strip)
 
 # flutter项目快速开发集成通用的依赖库
 * 1.国际化
