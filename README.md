@@ -216,4 +216,5 @@ shared_preferences 异步有两个地方,一个是初始一个是存储
 # 5.工具(持续更新)
 1.NavigationService 不需要context的push工具
 2.ScreenService获取屏幕宽高工具
+3.EventBusService 通知工具
 .....
